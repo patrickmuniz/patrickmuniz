@@ -1,4 +1,10 @@
-### Hi there 👋
+### Ola! Eu sou o Patrick Muniz
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Patrick&show_icons=true&theme=transparent)
+
+![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
 
 <!--
 **patrickmuniz/patrickmuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
