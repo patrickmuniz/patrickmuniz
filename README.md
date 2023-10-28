@@ -18,3 +18,5 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Patrick&show_icons=true&theme=transparent)
 
+Outras informações
+
